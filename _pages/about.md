@@ -50,8 +50,8 @@ My research interests span in computer vision, multimodal learning and deep lear
 
 
 **Invited Conference Reviewer:**
-<!-- - <font size=3><em>ICIP 2026</em></font>        --> 
-- <font size=3><em>AAAI 2025, ECCV 2025, ICRA 2025, ICIP 2025, 3DV, IEEE CASE 2025</em></font>
+- <font size=3><em>3DV 2026</em></font> 
+- <font size=3><em>AAAI 2025, ECCV 2025, ICRA 2025, ICIP 2025, IEEE CASE 2025</em></font>
 
 **Invited Journal Reviewer:**
 - <font size=3><em> Future Generation Computer Systems (Elsevier, IF 6.1 ) </em></font>

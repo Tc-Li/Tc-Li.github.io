@@ -10,12 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-I’m Tingcheng Li, an Assistant professor of computer science with [School of Electronic and information Engineering](https://galilee.univ-paris13.fr/). I obtained my ph.d from ensam supervised by [Pr. Jean-Philippe Pernot](https://www.iufrance.fr/les-membres-de-liuf/membre/2370-aurelie-bugeau.html). I obtained my Ph.D. degree from the [LISPEN](http://www.gipsa-lab.grenoble-inp.fr/index.php) of the [University of Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/) supervised by [Pr. Jean-Philippe Pernot](https://www.grenoble-inp.fr/fr/personnel/m-feng-gang), [Dr. Arnaud Polette](https://scholar.google.fr/citations?user=IUBvHCcAAAAJ&hl=fr) and [Dr. Ruding Lou]. Prior to coming to France, I obtained the MSc degree from [Nanjing university of AA](https://english.bit.edu.cn/) in China.
+I’m Tingcheng Li, an Assistant professor of computer science with [School of Electronic and information Engineering](https://galilee.univ-paris13.fr/). I obtained my Ph.D. degree from the [LISPEN](https://lispen.artsetmetiers.fr/) of the [Arts et Métiers Institute of Technology, France](https://artsetmetiers.fr/fr). Prior to coming to France, I obtained the MSc degree from [Nanjing University Of Aeronautics And Astronautics](https://nuaa.edu.cn/) in China.
 
 Contact : tingcheng.li@outlook.com
 
 ## Research Interests: 
-- 3D reconstrcuction, computer vision, , deep learning 
+- 3D reconstrcuction/computer vision, Industry Software, Embodied AI/Robotics, Deep Learning 
 
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  

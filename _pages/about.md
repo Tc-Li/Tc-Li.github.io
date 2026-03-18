@@ -15,7 +15,7 @@ I’m Tingcheng Li, an Assistant professor of computer science with [School of E
 Contact : tingcheng.li@outlook.com
 
 ## Research Interests: 
-- 3D reconstrcuction/computer vision, Industry Software, Embodied AI/Robotics, Deep Learning 
+- 3D reconstruction/Computer Vision, Industry Software, Embodied AI/Robotics, Deep Learning 
 
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  

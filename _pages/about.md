@@ -10,12 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-I’m Tingcheng Li, an Assistant professor of computer science with School of Electronic and information Engineering. I obtained my Ph.D. degree from the [LISPEN](https://lispen.artsetmetiers.fr/) of the [Arts et Métiers Institute of Technology, France](https://artsetmetiers.fr/fr). Prior to coming to France, I obtained the MSc degree from [Nanjing University Of Aeronautics and Astronautics](https://nuaa.edu.cn/) in China.
+I’m Tingcheng LI, an Assistant Professor of computer science with School of Electronic and information Engineering. I obtained my Ph.D. degree from the [LISPEN](https://lispen.artsetmetiers.fr/) of the [Arts et Métiers Institute of Technology, France](https://artsetmetiers.fr/fr). Prior to coming to France, I obtained the MSc degree from [Nanjing University Of Aeronautics and Astronautics](https://nuaa.edu.cn/) in China.
 
 Contact : tingcheng.li@outlook.com
 
 ## Research Interests: 
-- 3D Reconstruction/Computer Vision, Industry Software, Embodied AI/Robotics, Deep Learning 
+- 3D Reconstruction/Computer Vision/Deep Learning 
+- Embodied AI/Robotics
+- Industry Software
 
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  

@@ -17,7 +17,7 @@ Contact : tingcheng.li@outlook.com
 ## Research Interests: 
 - 3D Reconstruction/Computer Vision/Deep Learning 
 - Embodied AI/Robotics
-- Industry Software
+- Industry Software/Information
 
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  

@@ -22,10 +22,20 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
+
+        <!-- 🌟 把统计代码移到 footer 内部，和页脚内容融合更美观 -->
+        <!-- 不蒜子访问统计 -->
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+        <div style="text-align: center; margin: 10px 0 0; color: #888; font-size: 12px;">
+          Total Visits: <span id="busuanzi_value_site_pv"></span> Times 
+          | Total Visitors: <span id="busuanzi_value_site_uv"></span> People
+        </div>
+     
       </footer>
     </div>
 
     {% include scripts.html %}
+    
 
   </body>
 </html>

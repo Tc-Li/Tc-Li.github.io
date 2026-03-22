@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I’m Tingcheng LI, an Assistant Professor of computer science with School of Electronic and information Engineering. I obtained my Ph.D. degree from the [LISPEN](https://lispen.artsetmetiers.fr/) of the [Arts et Métiers Institute of Technology, France](https://artsetmetiers.fr/fr). Prior to coming to France, I obtained the MSc degree from [Nanjing University Of Aeronautics and Astronautics](https://nuaa.edu.cn/) in China.
+I’m Tingcheng LI, an Assistant Professor of computer science with School of Electronic and Information Engineering. I obtained my Ph.D. degree from [LISPEN](https://lispen.artsetmetiers.fr/) of  [Arts et Métiers Institute of Technology, France](https://artsetmetiers.fr/fr). Prior to coming to France, I obtained the MSc degree from [Nanjing University Of Aeronautics and Astronautics](https://nuaa.edu.cn/) in China.
 
 Contact : tingcheng.li@outlook.com
 

@@ -19,15 +19,8 @@ Contact : tingcheng.li@outlook.com
 - Embodied AI/Robotics
 - Industry Software/Information
 
-<!---
-My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
-- Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications; interdisciplinary applications of deep learning
-- Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (language-vision), Multi-task learning and Metric learning; 
-- Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
---->
-
 ## *News :* 
-- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><strong> [3/2026]</strong>: Our paper <strong><em>3DVAC-HiPRoM: 3D vision and alignment control-based high-precise robotmanipulation for manufacturing resilience</em></strong>  has been accepted in the top-tier Robotics and Smart Manufacturing journal <strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0736584526000463"> Robotics and Computer-Integrated Manufacturing.</a></strong> Congratulations <em><strong>Myself! </strong></em>
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><strong> [3/2026]</strong>: Our paper <strong><em>3DVAC-HiPRoM: 3D vision and alignment control-based high-precise robot manipulation for manufacturing resilience</em></strong>  has been accepted in the top-tier Robotics and Smart Manufacturing journal <strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0736584526000463"> Robotics and Computer-Integrated Manufacturing.</a></strong> Congratulations <em><strong>Myself! </strong></em>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><strong> [3/2026]</strong>: Our paper <strong><em>CUE-YOLO: An Efficient and Robust Detector for Metal Surface Defect Detection With Adaptive Attention and Task Alignment</em></strong>  has been accepted in <strong><a href="https://ieeexplore.ieee.org/abstract/document/11421332"> IEEE Access.</a></strong> Congratulations <em><strong>Xiaonian Yang! </strong></em>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><strong> [2/2026]</strong>: Our paper <strong><em>GARO: Geometry-Aware Redundancy Optimization for Real-Time and High-Fidelity Dynamic Gaussian Splatting</em></strong>  has been accepted in the top-tier robotic coneference <strong><a href="https://2026.ieee-icra.org/">2026 IEEE International Conference on Robotics & Automation (ICRA2026).</a></strong> Congratulations <em><strong>Huiwen Xue! </strong></em>
 

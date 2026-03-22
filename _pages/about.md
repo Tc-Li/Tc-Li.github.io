@@ -26,6 +26,7 @@ Contact : tingcheng.li@outlook.com
 
 - <font size=3><strong> [11/2025]</strong>: Our paper <strong><em>NVC-GS: Monocular Dynamic Scene Reconstruction via Normal-Regularized and Multi-View-Consistent 3D Gaussian Splatting</em></strong>  has been accepted by <strong><a href="https://3dvconf.github.io/2026/">The 13th International Conference on 3D Vision （3DV 2026）.</a></strong> Congratulations <em><strong>Huiwen XUE! </strong></em></font>
 
+- <font size=3><strong> [10/2025]</strong>: Our paper <strong><em>MMJTIS-Net: multi-model joint tooth instance segmentation network for advanced stomatological treatment</em></strong>  has been accepted by <strong><a href="https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-34/issue-5/053038/MMJTIS-Net--multi-model-joint-tooth-instance-segmentation-network/10.1117/1.JEI.34.5.053038.short">Journal of Electronic Imaging .</a></strong> Congratulations <em><strong>Minquan LONG! </strong></em></font>
 
 
 

@@ -47,7 +47,7 @@ Contact : tingcheng.li@outlook.com
 
 
 **Invited Conference Reviewer:**
-- <font size=3><em>IROS 2026, ICIP 2026, 3DV 2026</em></font> 
+- <font size=3><em>IROS 2026, ICIP 2026, 3DV 2026, CASE 2026</em></font> 
 - <font size=3><em>AAAI 2025, ECCV 2025, ICRA 2025, ICIP 2025, IEEE CASE 2025</em></font>
 
 **Invited Journal Reviewer:**

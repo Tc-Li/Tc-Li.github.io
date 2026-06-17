@@ -54,3 +54,4 @@ Contact : tingcheng.li@outlook.com
 
 **Invited Journal Reviewer:**
 - <font size=3><em> Future Generation Computer Systems (Elsevier, IF 6.1 ) </em></font>
+- <font size=3><em> Engineering Applications of Artificial Intelligence (Elsevier, IF 9.0 ) </em></font>

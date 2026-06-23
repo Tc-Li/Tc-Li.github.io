@@ -56,5 +56,6 @@ Contact : tingcheng.li@outlook.com
 - <font size=3><em>AAAI 2025, ECCV 2025, ICRA 2025, ICIP 2025, IEEE CASE 2025</em></font>
 
 **Invited Journal Reviewer:**
-- <font size=3><em> Future Generation Computer Systems (Elsevier, IF 6.1 ) </em></font>
 - <font size=3><em> Engineering Applications of Artificial Intelligence (Elsevier, IF 9.0 ) </em></font>
+- <font size=3><em> Future Generation Computer Systems (Elsevier, IF 6.1 ) </em></font>
+
